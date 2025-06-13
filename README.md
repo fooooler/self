@@ -158,7 +158,7 @@ rows = cur.fetchall()
 **学习内容**： 
 作业和期末Project让我成长率许多。尤其是期末项目，我又重新拾起了之前上机课学习的python连接postgresql的内容，并且初次接触好学习了如何接入API相关的。当最终API网页成功弹出时，感觉充满了成就感（虽然有Copilot老师的帮助哈哈哈）。下面附上一些笔记，作业和期末与C老师交流的截图。
 
-![image-4.png](Homework1.jpg)
+![image-4.png](Homework1.png)
 ![image-5.png](Homework2.jpg)
 ![image-6.png](Homework3.jpg)
 ![image-7.png](Homework4.jpg)
